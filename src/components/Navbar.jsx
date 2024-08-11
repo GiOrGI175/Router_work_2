@@ -13,17 +13,17 @@ const Navbar = () => {
           </NavLink>
         </li>
         <li>
-          <NavLink to={'/impact'} style={{ textDecoration: 'none' }}>
+          <NavLink to={'/projects'} style={{ textDecoration: 'none' }}>
             <span>Projects</span>
           </NavLink>
         </li>
         <li>
-          <NavLink to={'/locatin'} style={{ textDecoration: 'none' }}>
+          <NavLink to={'/impact'} style={{ textDecoration: 'none' }}>
             <span>Impact</span>
           </NavLink>
         </li>
         <li>
-          <NavLink to={'/projects'} style={{ textDecoration: 'none' }}>
+          <NavLink to={'/locatin'} style={{ textDecoration: 'none' }}>
             <span>Locations</span>
           </NavLink>
         </li>
